@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hohin
 
 Systems & Cybersecurity Enthusiast  
-Computer Science Student  
-📍 India  
+Computer Science (Cybersecurity) Student  
+📍 Tamil Nadu,India  
 
 ---
 
