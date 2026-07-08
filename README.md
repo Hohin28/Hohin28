@@ -59,6 +59,43 @@ Currently building a strong foundation in **systems + security** while preparing
 
 ---
 
+## 📁 Featured Projects
+
+### 🤖 AI / Machine Learning
+| Project | Description |
+|---------|-------------|
+| [**Vision AI — Crowd Detection**](https://github.com/Hohin28/Vision-AI-Crowd-Detection) | Real-time crowd detection & people counting with YOLOv8, SAHI, DeepSORT + Streamlit UI |
+| [**UPI Fraud Detection**](https://github.com/Hohin28/UPI-Fraud-Detection) | ML-based UPI fraud detection using anomaly detection + supervised models with API & dashboard |
+| [**Malware Classification ML**](https://github.com/Hohin28/Malware-Classification-ML) | Machine learning model for malware classification (Python + Jupyter) |
+
+### 🔐 Cybersecurity
+| Project | Description |
+|---------|-------------|
+| [**SIM Swap Sentinel**](https://github.com/Hohin28/Sim-Swap-Sentinel-) | Proactive SIM swap fraud detection combining risk scoring + geolocation intelligence |
+| [**Phishing URL Detector**](https://github.com/Hohin28/Phishing-URL-Detector) | Real-time phishing URL detector using rule-based scoring (C++ + Flask) |
+| [**Blakley Secret Sharing**](https://github.com/Hohin28/Blakley-Secret-Sharing) | Blakley Secret Sharing scheme implementation in C++ with web interface |
+| [**Vigenère Cipher (C)**](https://github.com/Hohin28/Vigenere-Cipher-C-) | Vigenère Cipher encryption tool in C with input validation and file logging |
+| [**DEFCON CTF Writeups**](https://github.com/Hohin28/DEFCON---CTF-Writeups) | Personal writeups from DEFCON CTF challenges |
+
+### ⚙️ Systems & DSA
+| Project | Description |
+|---------|-------------|
+| [**Bloom Filter Visualizer**](https://github.com/Hohin28/Bloom-Filter-Visualizer) | Interactive visualizer for Bloom filters — probabilistic set membership |
+
+### 📱 Applications
+| Project | Description |
+|---------|-------------|
+| [**AI Session Manager**](https://github.com/Hohin28/ai-session-manager) | Privacy-first Chrome extension that tracks your free Claude usage limit and reminds you when messages reset |
+| [**Weather App (Android)**](https://github.com/Hohin28/Weather-App-Android) | Native Android weather application |
+
+### 📚 Academic & Community
+| Project | Description |
+|---------|-------------|
+| [**Git & GitHub Workshop**](https://github.com/Hohin28/git-github-workshop) | Beginner-friendly workshop — Git installation, essential commands, branching, PRs, open-source best practices |
+| [**24CYS212 — Group 7**](https://github.com/Hohin28/24CYS212_Group-7) | Multi-Media Processing coursework, Semester 4 (CYS-B, Group 7) |
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
