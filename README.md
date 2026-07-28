@@ -1,8 +1,18 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Hohin J - Systems & Cybersecurity Enthusiast" src="dark.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
 # 👋 Hi, I'm Hohin
 
 Systems & Cybersecurity Enthusiast  
 Computer Science (Cybersecurity) Student  
-📍 Tamil Nadu,India  
+📍 Tamil Nadu, India  
 
 ---
 
