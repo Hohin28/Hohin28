@@ -1,0 +1,34 @@
+<svg viewBox="0 0 1180 349" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#00B4D8" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%" filterUnits="objectBoundingBox">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <g filter="url(#cardShadow)">
+    <rect x="3" y="3" width="1174" height="343" rx="16" fill="#0D1117" fill-opacity="0.94" stroke="#FFFFFF14" stroke-width="1"/>
+  </g>
+  <rect x="3" y="3" width="1174" height="343" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="1" stroke-opacity="0.28"/>
+
+  <circle cx="30" cy="29" r="5.5" fill="#FF5F56"/>
+  <circle cx="48" cy="29" r="5.5" fill="#FFBD2E"/>
+  <circle cx="66" cy="29" r="5.5" fill="#27C93F"/>
+  <text x="1156" y="33" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#94A3B8">$ cat about.me</text>
+  <line x1="1" y1="50" x2="1179" y2="50" stroke="#FFFFFF14" stroke-width="1"/>
+
+<g font-family="-apple-system,'Segoe UI',sans-serif" font-size="15.5" fill="#F8FAFC">
+<text x="28" y="90">Cybersecurity undergrad at Amrita Vishwa Vidyapeetham (TIFAC-CORE Cyber Security), working under a professor</text>
+<text x="28" y="115">mentor on research spanning cybersecurity, computer vision, and computational pathology.</text>
+<text x="28" y="150">Day to day that means digging into packet captures and Linux internals on one side, and building quadtree-</text>
+<text x="28" y="175">based whole-slide-image pipelines and OCR models on the other — with a Scopus-indexed publication as the</text>
+<text x="28" y="200">current target for degree distinction.</text>
+<text x="28" y="235">Outside coursework: live 36-hour bug-bounty assessments, national cybersecurity hackathons, and picking</text>
+<text x="28" y="260">apart systems until I understand why they actually work.</text>
+</g>
+<line x1="28" y1="285" x2="1152" y2="285" stroke="#FFFFFF14" stroke-width="1"/>
+<text x="28" y="313" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" font-style="italic" fill="#00F5D4">"I learn by breaking things, reading source code, and asking “why does this actually work?”"</text>
+</svg>

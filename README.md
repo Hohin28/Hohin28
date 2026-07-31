@@ -1,67 +1,85 @@
-# 👋 Hi, I'm Hohin
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Hohin — Cybersecurity Undergrad &amp; ML/AI Researcher" width="100%">
+</picture>
 
-**Systems & Cybersecurity Enthusiast** | Computer Science (Cybersecurity) Student  
-📍 Tamil Nadu, India  
+![](./divider.svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hohin-j)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hohin28)
+![$ cat about.me](./card-about.svg)
 
----
+![](./divider.svg)
 
-## 🚀 About Me
+![$ ls tech-stack/](./card-techstack.svg)
 
-I focus on **systems, low-level computing, and cybersecurity** — understanding how things work under the hood and how they break. I enjoy working with **Linux, operating systems, and networking**, and actively explore vulnerabilities through CTF challenges and hands-on practice.
+![](./divider.svg)
 
-> *I learn by breaking things, reading source code, and asking **"why does this actually work?"***
+![$ cat experience.log](./card-experience.svg)
 
----
+![](./divider.svg)
 
-## 💻 Technical Skills & Core Concepts
+![$ ls projects/](./card-projects.svg)
 
-- **Languages:** ![C++](https://img.shields.io/badge/C++-1E3A8A?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-1E3A8A?style=flat-square&logo=python&logoColor=white)
-- **Tools & Platforms:** ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
-- **Cybersecurity & Networking:** ![Networking](https://img.shields.io/badge/TCP%2FIP%20%7C%20HTTP%20%7C%20DNS-7C3AED?style=flat-square) ![Linux Permissions](https://img.shields.io/badge/Linux%20Permissions-7C3AED?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-7C3AED?style=flat-square)
-- **Core Concepts:** Data Structures & Algorithms (DSA) • Operating Systems (OS) • Computer Networks (CN)
+![](./divider.svg)
 
----
+![$ cat coding-profiles.cfg](./prompt-coding.svg)
 
-## 📁 Featured Projects
+<!-- TODO: once you share your LeetCode / Codeforces handle, add the shields.io badge here, e.g.
+[![LeetCode](https://img.shields.io/badge/LeetCode-your__handle-00F5D4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/your_handle/) -->
 
-### 🔐 Cybersecurity & Systems
-| Project | Description |
-|---------|-------------|
-| [**SIM Swap Sentinel**](https://github.com/Hohin28/Sim-Swap-Sentinel-) | Proactive SIM swap fraud detection combining risk scoring + geolocation intelligence |
-| [**Phishing URL Detector**](https://github.com/Hohin28/Phishing-URL-Detector) | Real-time phishing URL detector using rule-based scoring (C++ + Flask) |
-| [**Blakley Secret Sharing**](https://github.com/Hohin28/Blakley-Secret-Sharing) | Blakley Secret Sharing scheme implementation in C++ with web interface |
-| [**Vigenère Cipher (C)**](https://github.com/Hohin28/Vigenere-Cipher-C-) | Vigenère Cipher encryption tool in C with input validation and file logging |
-| [**Bloom Filter Visualizer**](https://github.com/Hohin28/Bloom-Filter-Visualizer) | Interactive visualizer for Bloom filters — probabilistic set membership |
-| [**DEFCON CTF Writeups**](https://github.com/Hohin28/DEFCON---CTF-Writeups) | Personal writeups from DEFCON CTF challenges |
+![](./divider.svg)
 
-### 🤖 AI, Machine Learning & Applications
-| Project | Description |
-|---------|-------------|
-| [**Vision AI — Crowd Detection**](https://github.com/Hohin28/Vision-AI-Crowd-Detection) | Real-time crowd detection & people counting with YOLOv8, SAHI, DeepSORT + Streamlit UI |
-| [**UPI Fraud Detection**](https://github.com/Hohin28/UPI-Fraud-Detection) | ML-based UPI fraud detection using anomaly detection + supervised models with API & dashboard |
-| [**Malware Classification ML**](https://github.com/Hohin28/Malware-Classification-ML) | Machine learning model for malware classification (Python + Jupyter) |
-| [**AI Session Manager**](https://github.com/Hohin28/ai-session-manager) | Privacy-first Chrome extension tracking free Claude usage limit & message resets |
-| [**Weather App (Android)**](https://github.com/Hohin28/Weather-App-Android) | Native Android weather application |
+![$ ./github-analytics.sh](./prompt-analytics.svg)
 
-### 📚 Academic & Community
-| Project | Description |
-|---------|-------------|
-| [**Git & GitHub Workshop**](https://github.com/Hohin28/git-github-workshop) | Beginner-friendly workshop — Git installation, essential commands, branching, PRs |
-| [**24CYS212 — Group 7**](https://github.com/Hohin28/24CYS212_Group-7) | Multi-Media Processing coursework, Semester 4 (CYS-B, Group 7) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hohin28&show_icons=true&theme=transparent&title_color=00F5D4&icon_color=00B4D8&text_color=CDD9E5&border_color=00F5D4&hide_border=false&bg_color=00000000)
+![Streak Stats](https://streak-stats.demolab.com/?user=Hohin28&theme=transparent&background=00000000&border=00F5D4&ring=00F5D4&fire=00B4D8&currStreakNum=00F5D4&sideNums=CDD9E5&currStreakLabel=00B4D8&sideLabels=CDD9E5&dates=94A3B8&hide_border=false)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hohin28&layout=compact&theme=transparent&title_color=00F5D4&text_color=CDD9E5&border_color=00F5D4&bg_color=00000000&langs_count=8&hide_border=false)
 
-## 📊 GitHub Activity
+![](./divider.svg)
 
-<div align="center">
+![$ cat trophies.json](./prompt-trophies.svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hohin28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hohin28&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Hohin28&theme=tokyonight&hide_border=true)
+![](./divider.svg)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hohin28&layout=compact&theme=tokyonight&hide_border=true)
+![$ tail -f activity.log](./prompt-activity.svg)
 
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hohin28&bg_color=00000000&color=00F5D4&line=00B4D8&point=00F5D4&area=true&area_color=00F5D4&hide_border=true&title_color=00F5D4)
+
+![](./divider.svg)
+
+![$ cat summary-cards.cfg](./prompt-summary.svg)
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hohin28&theme=transparent" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hohin28&theme=transparent" alt="Repos per language" />
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hohin28&theme=transparent" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hohin28&theme=transparent" alt="Stats" />
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hohin28&theme=transparent&utcOffset=5.5" alt="Productive time" />
+</p>
+
+![](./divider.svg)
+
+![$ cat focus.yaml](./card-focus.svg)
+
+![](./divider.svg)
+
+![$ ./connect.sh --all](./prompt-connect.svg)
+
+<p>
+  <a href="https://github.com/Hohin28"><img src="https://img.shields.io/badge/GitHub-Hohin28-00F5D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"></a>
+  <a href="mailto:hohinsj@gmail.com"><img src="https://img.shields.io/badge/Email-hohinsj%40gmail.com-00F5D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"></a>
+</p>
+
+<!-- TODO: add LinkedIn once you share the vanity URL, e.g.
+<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-your__handle-00F5D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"></a> -->
+
+![](./divider.svg)
+
+<p align="center"><i>"I learn by breaking things, reading source code, and asking &ldquo;why does this actually work?&rdquo;"</i></p>

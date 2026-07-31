@@ -1,0 +1,29 @@
+<svg viewBox="0 0 1180 32" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#00F5D4" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#00B4D8" stop-opacity="0.95"/>
+      <stop offset="82%" stop-color="#00F5D4" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0"/>
+    </linearGradient>
+    <!-- explicit userSpaceOnUse region so the zero-height line still gets a real glow box -->
+    <filter id="divGlow" x="0" y="0" width="1180" height="32" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <line x1="20" y1="16" x2="1160" y2="16" stroke="url(#divGrad)" stroke-width="1.6" filter="url(#divGlow)">
+    <animate attributeName="stroke-width" values="1.6;2;1.6" dur="4.5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- traveling highlight glint -->
+  <circle cy="16" r="2.4" fill="#F8FAFC" opacity="0.9">
+    <animate attributeName="cx" values="20;1160;20" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>

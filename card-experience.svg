@@ -1,0 +1,35 @@
+<svg viewBox="0 0 1180 356" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#00B4D8" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%" filterUnits="objectBoundingBox">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <g filter="url(#cardShadow)">
+    <rect x="3" y="3" width="1174" height="350" rx="16" fill="#0D1117" fill-opacity="0.94" stroke="#FFFFFF14" stroke-width="1"/>
+  </g>
+  <rect x="3" y="3" width="1174" height="350" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="1" stroke-opacity="0.28"/>
+
+  <circle cx="30" cy="29" r="5.5" fill="#FF5F56"/>
+  <circle cx="48" cy="29" r="5.5" fill="#FFBD2E"/>
+  <circle cx="66" cy="29" r="5.5" fill="#27C93F"/>
+  <text x="1156" y="33" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#94A3B8">$ cat experience.log</text>
+  <line x1="1" y1="50" x2="1179" y2="50" stroke="#FFFFFF14" stroke-width="1"/>
+
+<circle cx="32" cy="87" r="3.5" fill="#00F5D4"/>
+<text x="48" y="92" font-family="-apple-system,'Segoe UI',sans-serif" font-size="15.5" font-weight="700" fill="#F8FAFC">TIFAC-CORE Cyber Security Center — Amrita Vishwa Vidyapeetham</text>
+<text x="48" y="116" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#94A3B8">Undergraduate researcher; ongoing work under a professor mentor spanning cybersecurity, computer</text>
+<text x="48" y="137" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#94A3B8">vision, and computational pathology infrastructure.</text>
+<circle cx="32" cy="173" r="3.5" fill="#00F5D4"/>
+<text x="48" y="178" font-family="-apple-system,'Segoe UI',sans-serif" font-size="15.5" font-weight="700" fill="#F8FAFC">C-DAC BOSS OS 11.0 Bug Bounty — Team Rangers</text>
+<text x="48" y="202" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#94A3B8">36-hour live security assessment on a Debian 13 target. Confirmed a High-severity world-readable</text>
+<text x="48" y="223" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#94A3B8">GRUB PBKDF2-SHA512 hash and a Medium-severity plaintext-HTTP APT repository misconfiguration.</text>
+<circle cx="32" cy="259" r="3.5" fill="#00F5D4"/>
+<text x="48" y="264" font-family="-apple-system,'Segoe UI',sans-serif" font-size="15.5" font-weight="700" fill="#F8FAFC">Bank of India × IIT Hyderabad CyberShield National Hackathon 2026 — Team HACKEYS</text>
+<text x="48" y="288" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#94A3B8">Built AEGIS, an AI-driven UPI mule-account detection platform, on a 3,924-feature engineered</text>
+<text x="48" y="309" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14" fill="#94A3B8">dataset.</text>
+</svg>
