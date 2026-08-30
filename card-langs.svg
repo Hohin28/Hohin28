@@ -19,49 +19,49 @@
   <circle cx="66" cy="29" r="5.5" fill="#27C93F"/>
   <text x="1156" y="33" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#94A3B8">$ ls tech-stack/ --by-bytes</text>
   <line x1="1" y1="50" x2="1179" y2="50" stroke="#FFFFFF14" stroke-width="1"/>
-  <text x="28" y="78" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="13" fill="#94A3B8">weighted by bytes across 19 public repositories</text>
- <path d="M35 92 h649.15 v14 h-649.15 a7 7 0 0 1 0 -14Z" fill="#3572A5"/>
- <path d="M684.15 92 h195.46 v14 h-195.46 v-14Z" fill="#3178c6"/>
- <path d="M879.6 92 h154.08 v14 h-154.08 v-14Z" fill="#DA5B0B"/>
- <path d="M1033.68 92 h45.39 v14 h-45.39 v-14Z" fill="#f1e05a"/>
- <path d="M1079.07 92 h27.34 v14 h-27.34 v-14Z" fill="#e34c26"/>
- <path d="M1106.41 92 h24.28 v14 h-24.28 v-14Z" fill="#663399"/>
- <path d="M1130.69 92 h11.32 v14 h-11.32 v-14Z" fill="#A97BFF"/>
- <path d="M1142.01 92 h0.5 a7 7 0 0 1 0 14 h-0.5 v-14Z" fill="#f34b7d"/>
+  <text x="28" y="78" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="13" fill="#94A3B8">weighted by bytes across 16 public repositories</text>
+ <path d="M35 92 h605.67 v14 h-605.67 a7 7 0 0 1 0 -14Z" fill="#3572A5"/>
+ <path d="M640.67 92 h221.47 v14 h-221.47 v-14Z" fill="#3178c6"/>
+ <path d="M862.14 92 h179.65 v14 h-179.65 v-14Z" fill="#DA5B0B"/>
+ <path d="M1041.79 92 h43.6 v14 h-43.6 v-14Z" fill="#f1e05a"/>
+ <path d="M1085.4 92 h23.92 v14 h-23.92 v-14Z" fill="#e34c26"/>
+ <path d="M1109.31 92 h18.44 v14 h-18.44 v-14Z" fill="#663399"/>
+ <path d="M1127.75 92 h13.2 v14 h-13.2 v-14Z" fill="#A97BFF"/>
+ <path d="M1140.95 92 h0.5 a7 7 0 0 1 0 14 h-0.5 v-14Z" fill="#f34b7d"/>
   <g transform="translate(28,148)">
     <circle cx="7" cy="-5" r="6.5" fill="#3572A5"/>
     <text x="24" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Python</text>
-    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">58.4%</text>
+    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">54.5%</text>
   </g>
   <g transform="translate(594,148)">
     <circle cx="7" cy="-5" r="6.5" fill="#3178c6"/>
     <text x="24" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">TypeScript</text>
-    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">17.4%</text>
+    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">19.7%</text>
   </g>
   <g transform="translate(28,178)">
     <circle cx="7" cy="-5" r="6.5" fill="#DA5B0B"/>
     <text x="24" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Jupyter Notebook</text>
-    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">13.7%</text>
+    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">16.0%</text>
   </g>
   <g transform="translate(594,178)">
     <circle cx="7" cy="-5" r="6.5" fill="#f1e05a"/>
     <text x="24" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">JavaScript</text>
-    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">4.0%</text>
+    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">3.9%</text>
   </g>
   <g transform="translate(28,208)">
     <circle cx="7" cy="-5" r="6.5" fill="#e34c26"/>
     <text x="24" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">HTML</text>
-    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">2.4%</text>
+    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">2.1%</text>
   </g>
   <g transform="translate(594,208)">
     <circle cx="7" cy="-5" r="6.5" fill="#663399"/>
     <text x="24" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">CSS</text>
-    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">2.2%</text>
+    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">1.6%</text>
   </g>
   <g transform="translate(28,238)">
     <circle cx="7" cy="-5" r="6.5" fill="#A97BFF"/>
     <text x="24" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Kotlin</text>
-    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">1.0%</text>
+    <text x="520" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="14" fill="#F8FAFC">1.2%</text>
   </g>
   <g transform="translate(594,238)">
     <circle cx="7" cy="-5" r="6.5" fill="#f34b7d"/>

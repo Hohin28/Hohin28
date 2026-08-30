@@ -34,7 +34,7 @@
     <g transform="translate(0,-12) scale(1.15)"><g stroke="#00F5D4" stroke-width="1.9" fill="none" stroke-linecap="round">
       <path d="M0.6 8h4.1M11.3 8h4.1"/><circle cx="8" cy="8" r="3.2"/></g></g>
     <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Total commits (2026)</text>
-    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">88</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">90</text>
   </g>
   <g transform="translate(28,202)">
     <g transform="translate(0,-12) scale(1.15)"><g stroke="#00F5D4" stroke-width="1.9" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -54,7 +54,7 @@
       <path d="M3 2.4h9.4a0.9 0.9 0 0 1 0.9 0.9v9.1H4.4A1.4 1.4 0 0 0 3 13.8Z"/>
       <path d="M3 13.8a1.4 1.4 0 0 1 1.4-1.4h8.9v1.9H4.4A1.4 1.4 0 0 1 3 12.9"/></g></g>
     <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Public repositories</text>
-    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">19</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">16</text>
   </g>
   <g transform="translate(336,164)">
     <g transform="translate(0,-12) scale(1.15)"><g stroke="#00B4D8" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -80,7 +80,7 @@
 
   <line x1="628" y1="72" x2="628" y2="264" stroke="#FFFFFF14" stroke-width="1"/>
   <text x="660" y="76" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#94A3B8">contributions by month</text>
-  <text x="1152" y="76" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#00F5D4">106 total</text>
+  <text x="1152" y="76" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#00F5D4">108 total</text>
   <line x1="660" y1="246.5" x2="1152" y2="246.5" stroke="#FFFFFF14" stroke-width="1"/>
     <rect x="667.38" y="234.24" width="26.24" height="11.76" rx="2.5" fill="url(#barG)"/>
     <text x="680.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Sep</text>
@@ -104,6 +104,6 @@
     <text x="1049.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jun</text>
     <rect x="1077.38" y="96" width="26.24" height="150" rx="2.5" fill="url(#barG)"/>
     <text x="1090.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jul</text>
-    <rect x="1118.38" y="243.06" width="26.24" height="2.94" rx="2.5" fill="url(#barG)"/>
+    <rect x="1118.38" y="237.18" width="26.24" height="8.82" rx="2.5" fill="url(#barG)"/>
     <text x="1131.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Aug</text>
 </svg>

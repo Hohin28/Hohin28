@@ -23,21 +23,21 @@
     <rect x="28" y="72" width="148.57" height="118" rx="12" fill="#FFFFFF08" stroke="#FFFFFF14" stroke-width="1"/>
     <circle cx="102.29" cy="112" r="26" fill="none" stroke="#FFFFFF14" stroke-width="4"/>
     <circle cx="102.29" cy="112" r="26" fill="none" stroke="#00F5D4" stroke-width="4" stroke-linecap="round"
-            stroke-dasharray="163.36" stroke-dashoffset="121.98"
+            stroke-dasharray="163.36" stroke-dashoffset="119.8"
             transform="rotate(-90 102.29 112)" opacity="0.9"/>
     <text x="102.29" y="118" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#00F5D4">A</text>
     <text x="102.29" y="158" text-anchor="middle" font-family="-apple-system,'Segoe UI',sans-serif" font-size="13" fill="#CDD9E5">Commits</text>
-    <text x="102.29" y="177" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12" fill="#F8FAFC">88 <tspan fill="#64748B">· next 200</tspan></text>
+    <text x="102.29" y="177" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12" fill="#F8FAFC">90 <tspan fill="#64748B">· next 200</tspan></text>
   </g>
   <g>
     <rect x="190.57" y="72" width="148.57" height="118" rx="12" fill="#FFFFFF08" stroke="#FFFFFF14" stroke-width="1"/>
     <circle cx="264.86" cy="112" r="26" fill="none" stroke="#FFFFFF14" stroke-width="4"/>
     <circle cx="264.86" cy="112" r="26" fill="none" stroke="#00F5D4" stroke-width="4" stroke-linecap="round"
-            stroke-dasharray="163.36" stroke-dashoffset="126.61"
+            stroke-dasharray="163.36" stroke-dashoffset="138.86"
             transform="rotate(-90 264.86 112)" opacity="0.9"/>
     <text x="264.86" y="118" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#00F5D4">B</text>
     <text x="264.86" y="158" text-anchor="middle" font-family="-apple-system,'Segoe UI',sans-serif" font-size="13" fill="#CDD9E5">Repositories</text>
-    <text x="264.86" y="177" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12" fill="#F8FAFC">19 <tspan fill="#64748B">· next 50</tspan></text>
+    <text x="264.86" y="177" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12" fill="#F8FAFC">16 <tspan fill="#64748B">· next 50</tspan></text>
   </g>
   <g>
     <rect x="353.14" y="72" width="148.57" height="118" rx="12" fill="#FFFFFF08" stroke="#FFFFFF14" stroke-width="1"/>
