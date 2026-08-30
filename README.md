@@ -56,15 +56,15 @@
 ![$ cat summary-cards.cfg](./prompt-summary.svg)
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hohin28&theme=transparent" alt="Profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hohin28&theme=transparent" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hohin28&theme=github_dark" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hohin28&theme=github_dark" alt="Repos per language" />
 </p>
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hohin28&theme=transparent" alt="Most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hohin28&theme=transparent" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hohin28&theme=github_dark" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hohin28&theme=github_dark" alt="Stats" />
 </p>
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hohin28&theme=transparent&utcOffset=5.5" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hohin28&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 </p>
 
 ![](./divider.svg)
