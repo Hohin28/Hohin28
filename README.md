@@ -31,22 +31,25 @@
 
 ![$ ./github-analytics.sh](./prompt-analytics.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hohin28&show_icons=true&theme=transparent&title_color=00F5D4&icon_color=00B4D8&text_color=CDD9E5&border_color=00F5D4&hide_border=false&bg_color=00000000)
-![Streak Stats](https://streak-stats.demolab.com/?user=Hohin28&theme=transparent&background=00000000&border=00F5D4&ring=00F5D4&fire=00B4D8&currStreakNum=00F5D4&sideNums=CDD9E5&currStreakLabel=00B4D8&sideLabels=CDD9E5&dates=94A3B8&hide_border=false)
+![GitHub stats for Hohin28](./card-stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hohin28&layout=compact&theme=transparent&title_color=00F5D4&text_color=CDD9E5&border_color=00F5D4&bg_color=00000000&langs_count=8&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hohin28&theme=transparent&background=00000000&border=00F5D4&ring=00F5D4&fire=00B4D8&currStreakNum=00F5D4&sideNums=CDD9E5&currStreakLabel=00B4D8&sideLabels=CDD9E5&dates=94A3B8&hide_border=false" alt="Contribution streak" width="62%">
+</p>
+
+![Top languages by bytes](./card-langs.svg)
 
 ![](./divider.svg)
 
 ![$ cat trophies.json](./prompt-trophies.svg)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hohin28&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8)
+![Profile trophies](./card-trophies.svg)
 
 ![](./divider.svg)
 
 ![$ tail -f activity.log](./prompt-activity.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hohin28&bg_color=00000000&color=00F5D4&line=00B4D8&point=00F5D4&area=true&area_color=00F5D4&hide_border=true&title_color=00F5D4)
+![Contribution activity graph](./card-activity.svg)
 
 ![](./divider.svg)
 

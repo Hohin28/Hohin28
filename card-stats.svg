@@ -1,0 +1,109 @@
+<svg viewBox="0 0 1180 296" xmlns="http://www.w3.org/2000/svg" width="100%" role="img" aria-label="$ gh api /users/Hohin28">
+  <defs>
+    <linearGradient id="bd" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#00B4D8" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="140%" filterUnits="objectBoundingBox">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <linearGradient id="barG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#00B4D8" stop-opacity="0.30"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#sh)">
+    <rect x="3" y="3" width="1174" height="290" rx="16" fill="#0D1117" fill-opacity="0.94" stroke="#FFFFFF14" stroke-width="1"/>
+  </g>
+  <rect x="3" y="3" width="1174" height="290" rx="16" fill="none" stroke="url(#bd)" stroke-width="1" stroke-opacity="0.28"/>
+
+  <circle cx="30" cy="29" r="5.5" fill="#FF5F56"/>
+  <circle cx="48" cy="29" r="5.5" fill="#FFBD2E"/>
+  <circle cx="66" cy="29" r="5.5" fill="#27C93F"/>
+  <text x="1156" y="33" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#94A3B8">$ gh api /users/Hohin28</text>
+  <line x1="1" y1="50" x2="1179" y2="50" stroke="#FFFFFF14" stroke-width="1"/>
+  <text x="28" y="84" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" fill="#00F5D4">Hohin.J <tspan fill="#64748B">@Hohin28</tspan></text>
+
+  <g transform="translate(28,126)">
+    <g transform="translate(0,-12) scale(1.15)"><polygon points="8,0.8 9.83,5.69 15.04,5.91 10.96,9.16 12.35,14.19 8,11.31 3.65,14.19 5.04,9.16 0.96,5.91 6.17,5.69" fill="#00F5D4"/></g>
+    <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Total stars earned</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">1</text>
+  </g>
+  <g transform="translate(28,164)">
+    <g transform="translate(0,-12) scale(1.15)"><g stroke="#00F5D4" stroke-width="1.9" fill="none" stroke-linecap="round">
+      <path d="M0.6 8h4.1M11.3 8h4.1"/><circle cx="8" cy="8" r="3.2"/></g></g>
+    <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Total commits (2026)</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">88</text>
+  </g>
+  <g transform="translate(28,202)">
+    <g transform="translate(0,-12) scale(1.15)"><g stroke="#00F5D4" stroke-width="1.9" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 6.2v7.1M12 9.4v3.9M4 5.2 A1.6 1.6 0 1 1 4 5.19M4 14.9 A1.6 1.6 0 1 1 4 14.89M12 14.9 A1.6 1.6 0 1 1 12 14.89"/>
+      <path d="M12 8.6V3.4h-2.6M12 3.4 10.6 2M12 3.4 10.6 4.8"/></g></g>
+    <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Total pull requests</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">1</text>
+  </g>
+  <g transform="translate(28,240)">
+    <g transform="translate(0,-12) scale(1.15)"><g stroke="#00F5D4" stroke-width="1.9" fill="none"><circle cx="8" cy="8" r="6.6"/></g>
+      <circle cx="8" cy="8" r="1.9" fill="#00F5D4"/></g>
+    <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Total issues</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">0</text>
+  </g>
+  <g transform="translate(336,126)">
+    <g transform="translate(0,-12) scale(1.15)"><g stroke="#00B4D8" stroke-width="1.7" fill="none" stroke-linejoin="round">
+      <path d="M3 2.4h9.4a0.9 0.9 0 0 1 0.9 0.9v9.1H4.4A1.4 1.4 0 0 0 3 13.8Z"/>
+      <path d="M3 13.8a1.4 1.4 0 0 1 1.4-1.4h8.9v1.9H4.4A1.4 1.4 0 0 1 3 12.9"/></g></g>
+    <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Public repositories</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">19</text>
+  </g>
+  <g transform="translate(336,164)">
+    <g transform="translate(0,-12) scale(1.15)"><g stroke="#00B4D8" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M13.4 8.9v5.1H2.6V3.2h5.2"/><path d="M10.4 2.3h3.9v3.9M14.3 2.3 8.3 8.3"/></g></g>
+    <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Contributed to</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">18</text>
+  </g>
+  <g transform="translate(336,202)">
+    <g transform="translate(0,-12) scale(1.15)"><g fill="#00B4D8"><circle cx="6" cy="5.4" r="2.9"/>
+      <path d="M0.9 14.4c0-2.9 2.3-4.6 5.1-4.6s5.1 1.7 5.1 4.6z"/>
+      <circle cx="12.2" cy="6.1" r="2.2" opacity="0.72"/>
+      <path d="M9.6 10.6c2.6-0.7 5.5 0.5 5.5 3.8h-3.6c0-1.5-0.7-2.9-1.9-3.8z" opacity="0.72"/></g></g>
+    <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Followers</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">26</text>
+  </g>
+  <g transform="translate(336,240)">
+    <g transform="translate(0,-12) scale(1.15)"><g stroke="#00B4D8" stroke-width="1.9" fill="none" stroke-linecap="round">
+      <circle cx="4" cy="3.6" r="1.8"/><circle cx="12" cy="3.6" r="1.8"/><circle cx="8" cy="12.6" r="1.8"/>
+      <path d="M4 5.4v1.4a2.1 2.1 0 0 0 2.1 2.1h3.8A2.1 2.1 0 0 0 12 6.8V5.4M8 8.9v1.9"/></g></g>
+    <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Forks earned</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">0</text>
+  </g>
+
+  <line x1="628" y1="72" x2="628" y2="264" stroke="#FFFFFF14" stroke-width="1"/>
+  <text x="660" y="76" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#94A3B8">contributions by month</text>
+  <text x="1152" y="76" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#00F5D4">106 total</text>
+  <line x1="660" y1="246.5" x2="1152" y2="246.5" stroke="#FFFFFF14" stroke-width="1"/>
+    <rect x="667.38" y="234.24" width="26.24" height="11.76" rx="2.5" fill="url(#barG)"/>
+    <text x="680.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Sep</text>
+    <rect x="708.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
+    <text x="721.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Oct</text>
+    <rect x="749.38" y="240.12" width="26.24" height="5.88" rx="2.5" fill="url(#barG)"/>
+    <text x="762.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Nov</text>
+    <rect x="790.38" y="243.06" width="26.24" height="2.94" rx="2.5" fill="url(#barG)"/>
+    <text x="803.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Dec</text>
+    <rect x="831.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
+    <text x="844.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jan</text>
+    <rect x="872.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
+    <text x="885.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Feb</text>
+    <rect x="913.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
+    <text x="926.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Mar</text>
+    <rect x="954.38" y="113.65" width="26.24" height="132.35" rx="2.5" fill="url(#barG)"/>
+    <text x="967.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Apr</text>
+    <rect x="995.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
+    <text x="1008.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">May</text>
+    <rect x="1036.38" y="240.12" width="26.24" height="5.88" rx="2.5" fill="url(#barG)"/>
+    <text x="1049.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jun</text>
+    <rect x="1077.38" y="96" width="26.24" height="150" rx="2.5" fill="url(#barG)"/>
+    <text x="1090.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jul</text>
+    <rect x="1118.38" y="243.06" width="26.24" height="2.94" rx="2.5" fill="url(#barG)"/>
+    <text x="1131.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Aug</text>
+</svg>

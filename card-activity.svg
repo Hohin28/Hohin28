@@ -1,0 +1,54 @@
+<svg viewBox="0 0 1180 340" xmlns="http://www.w3.org/2000/svg" width="100%" role="img" aria-label="$ tail -f activity.log">
+  <defs>
+    <linearGradient id="bd" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#00B4D8" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="140%" filterUnits="objectBoundingBox">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <linearGradient id="areaG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F5D4" stop-opacity="0.50"/>
+      <stop offset="100%" stop-color="#00F5D4" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="lineG" gradientUnits="userSpaceOnUse" x1="64" y1="0" x2="1152" y2="0">
+      <stop offset="0%" stop-color="#00F5D4"/>
+      <stop offset="100%" stop-color="#00B4D8"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#sh)">
+    <rect x="3" y="3" width="1174" height="334" rx="16" fill="#0D1117" fill-opacity="0.94" stroke="#FFFFFF14" stroke-width="1"/>
+  </g>
+  <rect x="3" y="3" width="1174" height="334" rx="16" fill="none" stroke="url(#bd)" stroke-width="1" stroke-opacity="0.28"/>
+
+  <circle cx="30" cy="29" r="5.5" fill="#FF5F56"/>
+  <circle cx="48" cy="29" r="5.5" fill="#FFBD2E"/>
+  <circle cx="66" cy="29" r="5.5" fill="#27C93F"/>
+  <text x="1156" y="33" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#94A3B8">$ tail -f activity.log</text>
+  <line x1="1" y1="50" x2="1179" y2="50" stroke="#FFFFFF14" stroke-width="1"/>
+  <text x="28" y="78" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="13" fill="#94A3B8">contributions per week · last 53 weeks</text>
+  <text x="1152" y="78" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="13" fill="#00F5D4">106 contributions</text>
+  <line x1="64" y1="268" x2="1152" y2="268" stroke="#FFFFFF14" stroke-width="1"/>
+  <text x="52" y="272" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">0</text>
+  <line x1="64" y1="180" x2="1152" y2="180" stroke="#FFFFFF14" stroke-width="1"/>
+  <text x="52" y="184" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">13</text>
+  <line x1="64" y1="92" x2="1152" y2="92" stroke="#FFFFFF14" stroke-width="1"/>
+  <text x="52" y="96" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">26</text>
+  <path d="M64 268C67.49 263.49,77.95 240.92,84.92 240.92C91.9 240.92,98.87 263.49,105.85 268C112.82 268,119.79 268,126.77 268C133.74 268,140.72 268,147.69 268C154.67 268,161.64 268,168.62 268C175.59 268,182.56 268,189.54 268C196.51 268,203.49 268,210.46 268C217.44 268,224.41 268,231.38 268C238.36 268,245.33 268,252.31 268C259.28 268,266.26 268,273.23 268C280.21 268,287.18 268,294.15 268C301.13 265.74,308.1 254.46,315.08 254.46C322.05 254.46,329.03 266.87,336 268C342.97 268,349.95 261.23,356.92 261.23C363.9 261.23,370.87 266.87,377.85 268C384.82 268,391.79 268,398.77 268C405.74 268,412.72 268,419.69 268C426.67 268,433.64 268,440.62 268C447.59 268,454.56 268,461.54 268C468.51 268,475.49 268,482.46 268C489.44 268,496.41 268,503.38 268C510.36 268,517.33 268,524.31 268C531.28 268,538.26 268,545.23 268C552.21 268,559.18 268,566.15 268C573.13 268,580.1 268,587.08 268C594.05 268,601.03 268,608 268C614.97 268,621.95 268,628.92 268C635.9 268,642.87 268,649.85 268C656.82 268,663.79 268,670.77 268C677.74 238.67,684.72 94.26,691.69 92C698.67 92,705.64 229.64,712.62 254.46C719.59 268,726.56 253.33,733.54 240.92C740.51 228.51,747.49 175.49,754.46 180C761.44 184.51,768.41 253.33,775.38 268C782.36 268,789.33 268,796.31 268C803.28 268,810.26 268,817.23 268C824.21 268,831.18 268,838.15 268C845.13 268,852.1 268,859.08 268C866.05 268,873.03 268,880 268C886.97 268,893.95 268,900.92 268C907.9 268,914.87 268,921.85 268C928.82 268,935.79 268,942.77 268C949.74 265.74,956.72 268,963.69 254.46C970.67 230.77,977.64 131.49,984.62 125.85C991.59 120.21,998.56 210.46,1005.54 220.62C1012.51 230.77,1019.49 192.41,1026.46 186.77C1033.44 181.13,1040.41 173.23,1047.38 186.77C1054.36 200.31,1061.33 254.46,1068.31 268C1075.28 268,1082.26 268,1089.23 268C1096.21 268,1103.18 268,1110.15 268C1117.13 268,1124.1 268,1131.08 268C1138.05 268,1148.51 268,1152 268L1152 268L64 268Z" fill="url(#areaG)"/>
+  <path d="M64 268C67.49 263.49,77.95 240.92,84.92 240.92C91.9 240.92,98.87 263.49,105.85 268C112.82 268,119.79 268,126.77 268C133.74 268,140.72 268,147.69 268C154.67 268,161.64 268,168.62 268C175.59 268,182.56 268,189.54 268C196.51 268,203.49 268,210.46 268C217.44 268,224.41 268,231.38 268C238.36 268,245.33 268,252.31 268C259.28 268,266.26 268,273.23 268C280.21 268,287.18 268,294.15 268C301.13 265.74,308.1 254.46,315.08 254.46C322.05 254.46,329.03 266.87,336 268C342.97 268,349.95 261.23,356.92 261.23C363.9 261.23,370.87 266.87,377.85 268C384.82 268,391.79 268,398.77 268C405.74 268,412.72 268,419.69 268C426.67 268,433.64 268,440.62 268C447.59 268,454.56 268,461.54 268C468.51 268,475.49 268,482.46 268C489.44 268,496.41 268,503.38 268C510.36 268,517.33 268,524.31 268C531.28 268,538.26 268,545.23 268C552.21 268,559.18 268,566.15 268C573.13 268,580.1 268,587.08 268C594.05 268,601.03 268,608 268C614.97 268,621.95 268,628.92 268C635.9 268,642.87 268,649.85 268C656.82 268,663.79 268,670.77 268C677.74 238.67,684.72 94.26,691.69 92C698.67 92,705.64 229.64,712.62 254.46C719.59 268,726.56 253.33,733.54 240.92C740.51 228.51,747.49 175.49,754.46 180C761.44 184.51,768.41 253.33,775.38 268C782.36 268,789.33 268,796.31 268C803.28 268,810.26 268,817.23 268C824.21 268,831.18 268,838.15 268C845.13 268,852.1 268,859.08 268C866.05 268,873.03 268,880 268C886.97 268,893.95 268,900.92 268C907.9 268,914.87 268,921.85 268C928.82 268,935.79 268,942.77 268C949.74 265.74,956.72 268,963.69 254.46C970.67 230.77,977.64 131.49,984.62 125.85C991.59 120.21,998.56 210.46,1005.54 220.62C1012.51 230.77,1019.49 192.41,1026.46 186.77C1033.44 181.13,1040.41 173.23,1047.38 186.77C1054.36 200.31,1061.33 254.46,1068.31 268C1075.28 268,1082.26 268,1089.23 268C1096.21 268,1103.18 268,1110.15 268C1117.13 268,1124.1 268,1131.08 268C1138.05 268,1148.51 268,1152 268" fill="none" stroke="url(#lineG)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="84.92" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Sep</text>
+  <text x="168.62" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Oct</text>
+  <text x="252.31" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Nov</text>
+  <text x="356.92" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Dec</text>
+  <text x="440.62" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Jan</text>
+  <text x="524.31" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Feb</text>
+  <text x="608" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Mar</text>
+  <text x="712.62" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Apr</text>
+  <text x="796.31" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">May</text>
+  <text x="900.92" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Jun</text>
+  <text x="984.62" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Jul</text>
+  <text x="1068.31" y="290" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11" fill="#64748B">Aug</text>
+  <line x1="64" y1="268.5" x2="1152" y2="268.5" stroke="#FFFFFF14" stroke-width="1"/>
+  <text x="28" y="320" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12" fill="#64748B">peak week 2026-03-29 · 26 contributions</text>
+</svg>

@@ -1,0 +1,55 @@
+name: Refresh profile cards
+
+# Regenerates card-stats / card-langs / card-trophies / card-activity from live
+# GitHub data and commits them if anything moved.
+#
+# The default GITHUB_TOKEN can read public contribution data, which is all these
+# cards use. If you ever want private contributions counted too, create a PAT
+# with `read:user`, save it as a repository secret named PROFILE_TOKEN, and this
+# workflow will prefer it.
+#
+# Needs Settings -> Actions -> General -> Workflow permissions set to
+# "Read and write permissions" for the commit step to push.
+
+on:
+  schedule:
+    - cron: '17 4 * * 1'        # Mondays, 04:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['tools/build-cards.mjs']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-cards
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Build cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        run: node tools/build-cards.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add card-stats.svg card-langs.svg card-trophies.svg card-activity.svg
+          if git diff --cached --quiet; then
+            echo "cards unchanged"
+          else
+            git commit -m 'chore: refresh profile cards'
+            git push
+          fi

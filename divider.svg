@@ -1,6 +1,8 @@
 <svg viewBox="0 0 1180 32" xmlns="http://www.w3.org/2000/svg" width="100%">
   <defs>
-    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- userSpaceOnUse for the same reason as the filter below: a <line> has a
+         zero-height bbox, so an objectBoundingBox gradient never paints -->
+    <linearGradient id="divGrad" gradientUnits="userSpaceOnUse" x1="20" y1="16" x2="1160" y2="16">
       <stop offset="0%" stop-color="#00F5D4" stop-opacity="0"/>
       <stop offset="18%" stop-color="#00F5D4" stop-opacity="0.55"/>
       <stop offset="50%" stop-color="#00B4D8" stop-opacity="0.95"/>
