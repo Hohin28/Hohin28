@@ -82,28 +82,28 @@
   <text x="660" y="76" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#94A3B8">contributions by month</text>
   <text x="1152" y="76" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#00F5D4">108 total</text>
   <line x1="660" y1="246.5" x2="1152" y2="246.5" stroke="#FFFFFF14" stroke-width="1"/>
-    <rect x="667.38" y="234.24" width="26.24" height="11.76" rx="2.5" fill="url(#barG)"/>
-    <text x="680.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Sep</text>
-    <rect x="708.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
-    <text x="721.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Oct</text>
-    <rect x="749.38" y="240.12" width="26.24" height="5.88" rx="2.5" fill="url(#barG)"/>
-    <text x="762.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Nov</text>
-    <rect x="790.38" y="243.06" width="26.24" height="2.94" rx="2.5" fill="url(#barG)"/>
-    <text x="803.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Dec</text>
+    <rect x="667.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
+    <text x="680.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Oct</text>
+    <rect x="708.38" y="240.12" width="26.24" height="5.88" rx="2.5" fill="url(#barG)"/>
+    <text x="721.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Nov</text>
+    <rect x="749.38" y="243.06" width="26.24" height="2.94" rx="2.5" fill="url(#barG)"/>
+    <text x="762.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Dec</text>
+    <rect x="790.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
+    <text x="803.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jan</text>
     <rect x="831.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
-    <text x="844.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jan</text>
+    <text x="844.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Feb</text>
     <rect x="872.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
-    <text x="885.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Feb</text>
-    <rect x="913.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
-    <text x="926.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Mar</text>
-    <rect x="954.38" y="113.65" width="26.24" height="132.35" rx="2.5" fill="url(#barG)"/>
-    <text x="967.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Apr</text>
-    <rect x="995.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
-    <text x="1008.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">May</text>
-    <rect x="1036.38" y="240.12" width="26.24" height="5.88" rx="2.5" fill="url(#barG)"/>
-    <text x="1049.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jun</text>
-    <rect x="1077.38" y="96" width="26.24" height="150" rx="2.5" fill="url(#barG)"/>
-    <text x="1090.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jul</text>
-    <rect x="1118.38" y="237.18" width="26.24" height="8.82" rx="2.5" fill="url(#barG)"/>
-    <text x="1131.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Aug</text>
+    <text x="885.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Mar</text>
+    <rect x="913.38" y="113.65" width="26.24" height="132.35" rx="2.5" fill="url(#barG)"/>
+    <text x="926.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Apr</text>
+    <rect x="954.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
+    <text x="967.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">May</text>
+    <rect x="995.38" y="240.12" width="26.24" height="5.88" rx="2.5" fill="url(#barG)"/>
+    <text x="1008.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jun</text>
+    <rect x="1036.38" y="96" width="26.24" height="150" rx="2.5" fill="url(#barG)"/>
+    <text x="1049.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Jul</text>
+    <rect x="1077.38" y="237.18" width="26.24" height="8.82" rx="2.5" fill="url(#barG)"/>
+    <text x="1090.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Aug</text>
+    <rect x="1118.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
+    <text x="1131.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Sep</text>
 </svg>
