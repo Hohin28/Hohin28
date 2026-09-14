@@ -23,11 +23,11 @@
     <rect x="28" y="72" width="148.57" height="118" rx="12" fill="#FFFFFF08" stroke="#FFFFFF14" stroke-width="1"/>
     <circle cx="102.29" cy="112" r="26" fill="none" stroke="#FFFFFF14" stroke-width="4"/>
     <circle cx="102.29" cy="112" r="26" fill="none" stroke="#00F5D4" stroke-width="4" stroke-linecap="round"
-            stroke-dasharray="163.36" stroke-dashoffset="119.8"
+            stroke-dasharray="163.36" stroke-dashoffset="123.07"
             transform="rotate(-90 102.29 112)" opacity="0.9"/>
     <text x="102.29" y="118" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#00F5D4">A</text>
     <text x="102.29" y="158" text-anchor="middle" font-family="-apple-system,'Segoe UI',sans-serif" font-size="13" fill="#CDD9E5">Commits</text>
-    <text x="102.29" y="177" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12" fill="#F8FAFC">90 <tspan fill="#64748B">· next 200</tspan></text>
+    <text x="102.29" y="177" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12" fill="#F8FAFC">87 <tspan fill="#64748B">· next 200</tspan></text>
   </g>
   <g>
     <rect x="190.57" y="72" width="148.57" height="118" rx="12" fill="#FFFFFF08" stroke="#FFFFFF14" stroke-width="1"/>
@@ -83,10 +83,10 @@
     <rect x="1003.43" y="72" width="148.57" height="118" rx="12" fill="#FFFFFF08" stroke="#FFFFFF14" stroke-width="1"/>
     <circle cx="1077.71" cy="112" r="26" fill="none" stroke="#FFFFFF14" stroke-width="4"/>
     <circle cx="1077.71" cy="112" r="26" fill="none" stroke="#00F5D4" stroke-width="4" stroke-linecap="round"
-            stroke-dasharray="163.36" stroke-dashoffset="101.28"
+            stroke-dasharray="163.36" stroke-dashoffset="98.02"
             transform="rotate(-90 1077.71 112)" opacity="0.9"/>
     <text x="1077.71" y="118" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#00F5D4">C</text>
     <text x="1077.71" y="158" text-anchor="middle" font-family="-apple-system,'Segoe UI',sans-serif" font-size="13" fill="#CDD9E5">Experience</text>
-    <text x="1077.71" y="177" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12" fill="#F8FAFC">1.9yr <tspan fill="#64748B">· next 5yr</tspan></text>
+    <text x="1077.71" y="177" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12" fill="#F8FAFC">2yr <tspan fill="#64748B">· next 5yr</tspan></text>
   </g>
 </svg>

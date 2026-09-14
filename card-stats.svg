@@ -34,7 +34,7 @@
     <g transform="translate(0,-12) scale(1.15)"><g stroke="#00F5D4" stroke-width="1.9" fill="none" stroke-linecap="round">
       <path d="M0.6 8h4.1M11.3 8h4.1"/><circle cx="8" cy="8" r="3.2"/></g></g>
     <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Total commits (2026)</text>
-    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">90</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">87</text>
   </g>
   <g transform="translate(28,202)">
     <g transform="translate(0,-12) scale(1.15)"><g stroke="#00F5D4" stroke-width="1.9" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -60,7 +60,7 @@
     <g transform="translate(0,-12) scale(1.15)"><g stroke="#00B4D8" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
       <path d="M13.4 8.9v5.1H2.6V3.2h5.2"/><path d="M10.4 2.3h3.9v3.9M14.3 2.3 8.3 8.3"/></g></g>
     <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Contributed to</text>
-    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">18</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">17</text>
   </g>
   <g transform="translate(336,202)">
     <g transform="translate(0,-12) scale(1.15)"><g fill="#00B4D8"><circle cx="6" cy="5.4" r="2.9"/>
@@ -80,7 +80,7 @@
 
   <line x1="628" y1="72" x2="628" y2="264" stroke="#FFFFFF14" stroke-width="1"/>
   <text x="660" y="76" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#94A3B8">contributions by month</text>
-  <text x="1152" y="76" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#00F5D4">108 total</text>
+  <text x="1152" y="76" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="12.5" fill="#00F5D4">104 total</text>
   <line x1="660" y1="246.5" x2="1152" y2="246.5" stroke="#FFFFFF14" stroke-width="1"/>
     <rect x="667.38" y="246" width="26.24" height="1.5" rx="2.5" fill="url(#barG)"/>
     <text x="680.5" y="264" text-anchor="middle" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="10.5" fill="#64748B">Oct</text>
