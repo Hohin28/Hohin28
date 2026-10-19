@@ -68,7 +68,7 @@
       <circle cx="12.2" cy="6.1" r="2.2" opacity="0.72"/>
       <path d="M9.6 10.6c2.6-0.7 5.5 0.5 5.5 3.8h-3.6c0-1.5-0.7-2.9-1.9-3.8z" opacity="0.72"/></g></g>
     <text x="34" y="0" font-family="-apple-system,'Segoe UI',sans-serif" font-size="14.5" fill="#CDD9E5">Followers</text>
-    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">26</text>
+    <text x="272" y="0" text-anchor="end" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="15" font-weight="600" fill="#F8FAFC">25</text>
   </g>
   <g transform="translate(336,240)">
     <g transform="translate(0,-12) scale(1.15)"><g stroke="#00B4D8" stroke-width="1.9" fill="none" stroke-linecap="round">
